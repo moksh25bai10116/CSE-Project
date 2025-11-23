@@ -1,0 +1,17 @@
+{
+    "balance": 4600.0,
+    "history": [
+        {
+            "type": "Income",
+            "amount": 5000.0,
+            "note": "pocket money",
+            "date": "2025-11-23 23:14:55.540701"
+        },
+        {
+            "type": "Expense",
+            "amount": 400.0,
+            "note": "food & travel",
+            "date": "2025-11-23 23:15:40.295359"
+        }
+    ]
+}
